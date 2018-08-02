@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.startrack" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Star Track</name>
+    <name>edwin18g</name>
     <description>
-        A basic Framework7 Media App for PhoneGap.
+        edwin18g
     </description>
     <author email="tommy@devgeeks.org" href="http://phonegap.com">
-        Adobe PhoneGap Team
+        edwin18g Team
     </author>
     <content src="index.html" />
     <access origin="*" />
